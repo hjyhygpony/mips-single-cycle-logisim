@@ -1,0 +1,8 @@
+# Logisim / OS
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
